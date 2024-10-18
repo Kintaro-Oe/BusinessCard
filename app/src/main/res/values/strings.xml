@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="title">Android Developer</string>
+    <string name="call_icon">Call icon</string>
+    <string name="share_icon">Share icon</string>
+    <string name="email_icon">Email icon</string>
+</resources>
